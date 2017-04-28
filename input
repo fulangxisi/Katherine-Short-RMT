@@ -1,0 +1,49 @@
+
+<div class="w3-row-padding">
+
+<div class="w3-half">
+<form class="w3-container w3-card-4">
+  <h2>Input Form</h2>
+  <div class="w3-section">
+    <input class="w3-input" type="text" required>
+    <label>Name</label>
+  </div>
+  <div class="w3-section">
+    <input class="w3-input" type="text" required>
+    <label>Email</label>
+  </div>
+  <div class="w3-section">
+    <input class="w3-input" type="text" required>
+    <label>Subject</label>
+  </div>
+
+  <div class="w3-row">
+  <div class="w3-half">
+    <input id="tornMuscles" class="w3-check" type="checkbox" checked="checked">
+    <label>Torn Muscles/Ligiments</label>
+    <br>
+    <input id="preNatal" class="w3-check" type="checkbox">
+    <label>Pre-natal</label>
+    <br>
+    <input id="chronicPain" class="w3-check" type="checkbox" disabled>
+    <label>Chronic pain</label>
+    <br><br>
+  </div>
+
+  <div class="w3-half">
+    <input id="male" class="w3-radio" type="radio" name="gender" value="male" checked>
+    <label>Male</label>
+    <br>
+    <input id="female" class="w3-radio" type="radio" name="gender" value="female">
+    <label>Female</label>
+    <br>
+    <input id="unknown" class="w3-radio" type="radio" name="gender" value="perfer not to say">
+    <label> Perfer not to say</label>
+	<br>
+	<input id="unknown" class="w3-radio" type="radio" name="gender" value="perfer not to say"
+  </div>
+  </div>
+</form>
+</div>
+<div class="w3-half">
+<div class="w3-card-4 w3-container">
