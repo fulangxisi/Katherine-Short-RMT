@@ -1,2 +1,2 @@
 # Katherine-Short-RMT
-new site
+check out Katherine short rmt as rebutal to MYTherapy website
